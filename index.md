@@ -3,18 +3,15 @@ layout: default
 title: Home
 ---
 
-## **Bienvenue sur mon Cyber Security blog**
-
-Salut,Bienvenue sur mon Cyber Security blog.Je m'appelle 0xS3rGio.Je publie différentes astuces sur le hacking,des articles,des writeups de CTF's, bref tout ce qui concerne le hacking Ethique ...... Je suis heureux de partager mon blog avec vous, merci.
-
+## **Cyber Security Blog**
 ## WhoAmI:-
 
-- **Nom:**    `HOGNAGLO komi Sergio`
-- **Pseudo:**   `0xS3rGio`
-- **compétences:**  `CTF / Red Teaming / Ethical Hacking`
-- **GitHub:**     `https://github.com/0xS3rgI0`
+- **Name:**    `komi Sergio HOGNAGLO`
+- **Pseudo:**   `manasse , y0urW1z4rD`
+- **Skills:**  `Offensive & Defensive Security / Red Teaming / B2r CTF`
+- **GitHub:**     `https://github.com/y0urW1z4rD`
 
-## **Les Derniers_articles**
+## **Bleu Team **
 
 - **Nov 8, 2021:** [Reverse Shell, L'Ultime Cheat Sheet](https://0xS3rgI0.github.io/posts/Revshell.html)
 
