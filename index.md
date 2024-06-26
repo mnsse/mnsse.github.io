@@ -11,7 +11,7 @@ title: Home
 - **Skills:**  `Offensive & Defensive Security / Red Teaming / B2r CTF`
 - **GitHub:**     `https://github.com/y0urW1z4rD`
 
-## **Bleu Team **
+## **Bleu Team**
 
 - **Nov 8, 2021:** [Reverse Shell, L'Ultime Cheat Sheet](https://0xS3rgI0.github.io/posts/Revshell.html)
 
