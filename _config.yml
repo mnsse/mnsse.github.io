@@ -2,7 +2,7 @@ title: Cyber Security:~#
 #description: Secure!!!
 show_downloads: false
 show_repo: false
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-sitemap
