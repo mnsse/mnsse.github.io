@@ -13,7 +13,7 @@ title: Home
 
 ## **Bleu Team**
 
-- **Aug 27, 2024:** [securing SSH server](https://mnsse.github.io/posts/securing SSH server.html)
+- **Aug 27, 2024:** [securing SSH server](https://mnsse.github.io/posts/securingSSHserver.html)
 
 - **Mar 13,2022:**[DirtyPipe -CVE-2022-0847 (POC)](https://0xS3rgI0.github.io/posts/Articles/CVE-2022-0847.html)
 
